@@ -2,8 +2,7 @@
     font-family: Helvetica, 'Times New Roman', serif;
     font-size: 18px;
     color: white;
-    background-color: blue;
-
+   
 }
 
 h1 {
@@ -17,5 +16,10 @@ h3 {
     color: gold;
 }
 body {
-    background-image: url(../img/windows.png);
+    background-color: blue;
+    background-image: url(../img/kitchen.png);
+    height: 75px;
+    width: auto;
+    background-repeat: repeat;
+    background-size: 75px;
 }
