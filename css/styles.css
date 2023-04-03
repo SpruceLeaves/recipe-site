@@ -23,3 +23,6 @@ body {
     background-repeat: repeat;
     background-size: 75px;
 }
+body.bread {
+    background-image: url(../img/bread-knife.png);
+}
